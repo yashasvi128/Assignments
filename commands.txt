@@ -1,0 +1,14 @@
+git config--This command is used to configure the git and to link up out github account($ git config --global user.name "yashasvi128"
+$ git config --global user.email yashasvij28@gmail.com)
+git init--This command is used for Initializing empty Git repository.
+ 
+git add--This command adds a change in the working directory to the staging area. It tells Git if we want to include updates to a particular file in the next commit.
+ 
+git commit--This command stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+ 
+git push--This command is used to upload local repository content to the remote repository. 
+
+git status--This command is to check if things havearrived or if anything has been moved to a different vault.
+ 
+git clone--This command is used to target an existing repository and create a clone, or copy of the target repository. 
+ 
